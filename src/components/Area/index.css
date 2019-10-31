@@ -1,0 +1,39 @@
+.red{
+    background-color: red;
+}
+
+.item{
+    height: 200px;
+    width: 200px;;
+    background-color: rgba(89, 193, 241, 0.425);
+    border: 1px solid black;
+}
+
+.chose-item{
+    height: 200px;
+    width: 200px;
+}
+
+.title-font{
+    font-family:cursive;
+}
+
+.wolf{
+    background-image: url('./../../assets/wolf-head_38725.png');
+    background-size: 200px;
+}
+
+.eagle{
+    background-image: url('./../../assets/eagle-emblem_38348.png');
+    background-size: 200px;
+}
+
+.vs{
+    background-image: url('./../../assets/vs.png');
+    background-size: 200px;
+}
+
+.blades{
+    background-image: url('./../../assets/blades.png');
+    background-size: 200px;
+}
