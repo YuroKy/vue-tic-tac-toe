@@ -37,3 +37,74 @@
     background-image: url('./../../assets/blades.png');
     background-size: 200px;
 }
+
+@media screen and (max-width: 450px) {
+    .item{
+        height: 100px;
+        width: 100px;
+        background-color: rgba(89, 193, 241, 0.425);
+        border: 1px solid black;
+    }
+    
+    .chose-item{
+        height: 150px;
+        width: 150px;
+    }
+    
+    .wolf{
+        background-image: url('./../../assets/wolf-head_38725.png');
+        background-size: 100px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+    .eagle{
+        background-image: url('./../../assets/eagle-emblem_38348.png');
+        background-size: 100px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+    .blades{
+        background-image: url('./../../assets/blades.png');
+        background-size: 100px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    }
+
+
+    @media screen and (max-width: 400px) {
+        .item{
+            height: 100px;
+            width: 100px;
+            background-color: rgba(89, 193, 241, 0.425);
+            border: 1px solid black;
+        }
+        
+        .chose-item{
+            height: 100px;
+            width: 140px;
+        }
+        
+        .wolf{
+            background-image: url('./../../assets/wolf-head_38725.png');
+            background-size: 100px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        
+        .eagle{
+            background-image: url('./../../assets/eagle-emblem_38348.png');
+            background-size: 100px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        
+        .blades{
+            background-image: url('./../../assets/blades.png');
+            background-size: 100px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        }
